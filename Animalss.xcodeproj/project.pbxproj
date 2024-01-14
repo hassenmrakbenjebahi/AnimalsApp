@@ -14,6 +14,8 @@
 		9A23E44A2B54141300ABBAEC /* Animalss.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9A23E4482B54141300ABBAEC /* Animalss.xcdatamodeld */; };
 		9A23E44C2B54141400ABBAEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A23E44B2B54141400ABBAEC /* Assets.xcassets */; };
 		9A23E44F2B54141400ABBAEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A23E44D2B54141400ABBAEC /* LaunchScreen.storyboard */; };
+		9A23E4572B54188B00ABBAEC /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A23E4562B54188B00ABBAEC /* DetailsViewController.swift */; };
+		9A23E4592B5428C800ABBAEC /* PanierViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A23E4582B5428C800ABBAEC /* PanierViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9A23E44B2B54141400ABBAEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A23E44E2B54141400ABBAEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A23E4502B54141400ABBAEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A23E4562B54188B00ABBAEC /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		9A23E4582B5428C800ABBAEC /* PanierViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanierViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				9A23E44D2B54141400ABBAEC /* LaunchScreen.storyboard */,
 				9A23E4502B54141400ABBAEC /* Info.plist */,
 				9A23E4482B54141300ABBAEC /* Animalss.xcdatamodeld */,
+				9A23E4562B54188B00ABBAEC /* DetailsViewController.swift */,
+				9A23E4582B5428C800ABBAEC /* PanierViewController.swift */,
 			);
 			path = Animalss;
 			sourceTree = "<group>";
@@ -144,7 +150,9 @@
 				9A23E4442B54141300ABBAEC /* ViewController.swift in Sources */,
 				9A23E44A2B54141300ABBAEC /* Animalss.xcdatamodeld in Sources */,
 				9A23E4402B54141300ABBAEC /* AppDelegate.swift in Sources */,
+				9A23E4592B5428C800ABBAEC /* PanierViewController.swift in Sources */,
 				9A23E4422B54141300ABBAEC /* SceneDelegate.swift in Sources */,
+				9A23E4572B54188B00ABBAEC /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
